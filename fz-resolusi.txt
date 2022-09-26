@@ -3,4 +3,4 @@ fz RESOLUSI
 - Membuat webmenggunakan html & css
 - Belajar database sql
 - Belajar Javascript
--Belajar Back End
+- Belajar Farmework PHP
