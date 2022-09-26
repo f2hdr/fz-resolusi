@@ -1,0 +1,4 @@
+fz RESOLUSI
+- Membuat desain menggunkan Figma
+- Membuat webmenggunakan html & css
+- Belajar database sql
